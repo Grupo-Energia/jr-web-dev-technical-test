@@ -14,6 +14,7 @@ Desenvolva uma aplicação de **Todo List (Lista de Tarefas)** utilizando **Reac
 
 ### Backend (Node.js)
 - API REST com endpoints para:
+  - Login de usuário
   - CRUD de tarefas
 - Banco de dados **MongoDB** ou **PostgreSQL**
 - Autenticação **JWT**
